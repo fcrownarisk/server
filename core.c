@@ -24,16 +24,16 @@ void main(){
     return O ^ (wwx + t7) + P ^ (wwx - t8);
 }
 void main(){
-    'T11 = t0 + t1 + t2 + t3 + t4 + t5'
-    'T12 = t6 + t7 + t8 + t9 + t10 + t11'
+    'T11' = 't0 + t1 + t2 + t3 + t4 + t5'
+    'T12' = 't6 + t7 + t8 + t9 + t10 + t11'
     char www;
     int t9,t10;
     return 'R' + (www + t9) + 'S' + (www - t10);
     return 'T11' + (www + t9) + 'T12' + (www - t10);
 }
 void main(){
-    'Z13 = w + wx + ww'
-    'Z14 = www + wwx + wwww'   
+    'Z13' = 'w + wx + ww'
+    'Z14' = 'www + wwx + wwww'   
     char wwww;
     int t11,t0;
     return 'X' - (wwww + t11) + 'Y' - (wwww - t0);
